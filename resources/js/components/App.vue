@@ -49,7 +49,7 @@
 
 </script>
 
-<style type="text/css">
+<style>
 
     #overall-analytics {
         font-family: monospace;

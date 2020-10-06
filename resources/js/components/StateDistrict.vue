@@ -77,7 +77,7 @@
 	}
 </script>
 
-<style type="text/css">	
+<style>	
 	#sd-header {
 	    border-radius: 1.5rem; 
 	    box-shadow: 7px 7px 15px -10px rgba(0,0,0,0.48);
