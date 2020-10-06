@@ -64,6 +64,15 @@ section {
   display: block;
 }
 
+#navbar-content {   
+    font-family: monospace;
+}
+
+#nb-brand {
+    font-size: 28px;
+}
+
+
 body {
   margin: 0;
   font-family: "Nunito", sans-serif;

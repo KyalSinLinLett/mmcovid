@@ -20,15 +20,7 @@
         <link href="{{ asset('css/app.css') }}" rel="stylesheet">
 
     </head>
-    <style type="text/css">
-        #navbar-content {   
-            font-family: monospace;
-        }
 
-        #nb-brand {
-            font-size: 28px;
-        }
-    </style>
     <body>
 
         <main>
